@@ -1,4 +1,4 @@
-# 
+# Turbo DeepReview script. Téléchargez et installez avec accélération GPU et traitement par lots — rapide, sécurisé et facile à utiliser.
 
 
 
